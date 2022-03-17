@@ -1,0 +1,7 @@
+*{
+    color:darkred;
+    background-color: #101010;
+}
+h1 :hover {
+    color:blueviolet;
+}
