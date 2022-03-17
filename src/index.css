@@ -5,3 +5,9 @@
 h1 :hover {
     color:blueviolet;
 }
+img {
+    height: 50%;
+    width: 50%;
+    margin: auto;
+    align-self: auto;
+}
