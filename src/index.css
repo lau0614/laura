@@ -1,13 +1,14 @@
 *{
-    color:darkred;
+    /* color: hotpink; */
     background-color: #101010;
 }
-h1 :hover {
+h1:hover {
     color:blueviolet;
 }
 img {
-    height: 50%;
-    width: 50%;
+    height: 30%;
+    width: 30%;
     margin: auto;
     align-self: auto;
 }
+body {color: #AD8B73;}
